@@ -1,0 +1,8 @@
+Flask==1.0.2
+requests==2.11.1
+raven[flask]==6.5.0
+talisker==0.9.16
+black==18.6b4
+prometheus_client==0.3.1
+gunicorn
+InstagramApi
