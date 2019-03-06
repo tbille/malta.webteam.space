@@ -1,4 +1,5 @@
 {
+            
   "scripts": {
     "lint-scss": "sass-lint static/**/*.scss --verbose --no-exit",
     "build": "pip install -r requirements.txt",
